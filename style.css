@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+
+}
+
+.text-shadow {
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin:300px auto;
+	font-size: 100px;
+	font-family: Arial Black, Gadget, sans-serifpx;
+	color: #FF0000;
+    text-shadow: #a3a3a3 -7px 1px 2px;
+    
